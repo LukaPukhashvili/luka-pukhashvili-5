@@ -1,0 +1,237 @@
+body{
+	background: #F6F8F9;
+}
+/*ნავიგაციის სტილები*/
+.navigation{
+	text-transform: uppercase;
+	vertical-align: middle;
+}
+.nav1{
+	display: inline-block;
+	font-family: 'Shippori Antique', sans-serif;
+	margin-right: 95px;
+	color: #FA6980;
+	padding-left: 20px;
+	padding-top: 20px;
+}
+.nav2{
+	display: inline-block;
+	font-family: 'Shippori Antique', sans-serif;
+	margin-right: 25px;
+	color: #343638;
+}
+.nav3{
+	display: inline-block;
+	font-family: 'Shippori Antique', sans-serif;
+	margin-right: 25px;
+	color: #343638;
+}
+.nav4{
+	display: inline-block;
+	font-family: 'Shippori Antique', sans-serif;
+	margin-right: 25px;
+	color: #343638;
+}
+.nav5{
+	display: inline-block;
+	font-family: 'Shippori Antique', sans-serif;
+	margin-right: 25px;
+	color: #343638;
+}
+.icon{
+	display: inline-block;
+	vertical-align: middle;
+}
+/*დასრულდა ნავიგაციის გასტილვა*/
+/*პირველი მთვარი ბლოკი*/
+.main-block1{
+	padding-left: 140px;
+	padding-right: 140px;
+	padding-top: 30px;
+	width: 1160px;
+	height: 410px;
+}
+.block1-head{
+	font-family: 'Shippori Antique', sans-serif;
+	font-size: 24px;
+	padding-left: 140px;
+	margin-top: 20px;
+}
+/*შიდა ბლოკების გასტილვა*/
+.block1-boxes{
+	background: #FFFFFF;
+	width: 360px;
+	height: 350px;
+	display: inline-block;
+	position: relative;
+}
+.texts-on-images{
+	left: 40px;
+	top: 28px;
+	position:absolute;
+
+}
+.texts{
+	font-family: 'Shippori Antique', sans-serif;
+	position: absolute;
+	bottom: 66px;
+	left: 40px;
+	right: 40px;
+	font-size: 13px;
+	color:#A6ADB4;
+}
+.time-svg{
+	position: absolute;
+	left: 40px;
+	bottom: 40px;
+	top: 294px;
+}
+/*მესამე შიდა ბლოკი*/
+.block3-box{
+	background: #FFFFFF;
+	display: inline-block;
+	width: 360px;
+	height: 350px;
+	position: relative;
+}
+.text3-on-image{
+	left: 40px;
+	top: 28px;
+	position:absolute;
+}
+.text3{
+	font-family: 'Shippori Antique', sans-serif;
+	position: absolute;
+	bottom: 66px;
+	left: 40px;
+	right: 40px;
+	font-size: 13px;
+	color:#A6ADB4;
+}
+/*სათაური*/
+.head-2{
+	padding-left: 140px;
+	margin-top: 49px;
+}
+/*მეორე მთავარი ბლოკი*/
+.main-block2{
+	/*display: inline-block;*/
+	width: 1160px;
+    height: 900px;
+    margin-top: 40px;
+    margin-right: 140px;
+    margin-bottom: 37px;
+    margin-left: 140px;
+}
+.block2-box1{
+	vertical-align: top;
+	display: inline-block;
+    margin-top: 40px;
+    width: 760px;
+    height: 900px;
+    position: relative;
+}
+.block2-image1{
+	/*padding-right: 530px;*/
+	display: inline-block;
+	padding-bottom: 40px;
+	position: relative;
+}
+.text4-on-image{
+	position: absolute;
+    top: 194px;
+    left: 308px;
+}
+/*მეორე ბლოკი*/
+.block2-box2{
+    display: inline-block;
+    width: 360px;
+    height: 896px;
+    margin-top: 40px;
+    margin-left: 30px;
+}
+.block3-image1{
+	margin-bottom: 109px;
+	vertical-align: top;
+}
+.block3-image2{
+	margin-bottom: 102px;
+}
+/*footer-ის ნაწილი*/
+.footer-main-div{
+	width: 1510px;
+	height: 200px;
+	background: #A6ADB4;
+	position: relative;
+}
+.footer-box{
+	width: 450px;
+	height: 84px;
+
+}
+.logo{
+	font-family: 'Shippori Antique', sans-serif;
+	color: #FFFFFF;
+	display: inline-block;
+    margin: 40px 88px 140px 130px;
+    font-size: 13px;
+    text-transform: uppercase;
+    position: absolute;
+    color: #FFFFFF;
+    font-size: 13px;
+}
+.footer-text1{
+	display: inline-block;
+	font-family: 'Shippori Antique', sans-serif;
+	margin-top: 40px;
+	margin-left: 260px;
+	position: absolute;
+	color: #CBD0D3;
+	font-size: 13px;
+}
+.footer-text2{
+	display: inline-block;
+	font-family: 'Shippori Antique', sans-serif;
+	margin-top: 40px;
+	margin-left: 413px;
+	position: absolute;
+	color: #CBD0D3;
+	font-size: 13px;
+}
+.footer-text3{
+	display: inline-block;
+	font-family: 'Shippori Antique', sans-serif;
+	margin-top: 40px;
+	margin-left: 560px;
+	position: absolute;
+	color: #CBD0D3;
+	font-size: 13px;
+}
+.footer-text4{
+	position: absolute;
+	font-family: 'Shippori Antique', sans-serif;
+	display: inline-block;
+	margin-left: 733px;
+	margin-top: 62px;
+	font-size: 11px;
+	color: #CBD0D3;
+}
+.footer-icons{
+	display: inline-block;
+	width: 200px;
+	height: 16px;
+	padding-left: 1170px;
+	padding-top: 52px;
+}
+.instagram-icon{
+	margin-right: 32px;
+	display: inline-block;
+}
+.twitter-icon{
+	margin-right: 32px;
+	display: inline-block;
+}
+.facebook-icon{
+	margin-right: 32px;
+	display: inline-block;
+}
